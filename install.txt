@@ -1,0 +1,14 @@
+
+for email in node js
+
+
+npm install -g touch-cli
+npm init -y
+npm install mailgun-js
+npm install nodemailer
+npm install axios
+npm install --save path
+npm install express --save
+npm install handlebars
+npm install nodemailer-mailgun-transport
+https://blog.probyto.com/email-templates-using-handlebars/
