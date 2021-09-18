@@ -1,4 +1,6 @@
 
+code used for yuga insurnace project
+connects to apex and sends email via mailgun to  users
 for email in node js
 
 
